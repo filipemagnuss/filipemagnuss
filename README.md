@@ -1,5 +1,6 @@
 ### Olá! Me chamo Filipe
 
+ Estudante de Análise e Desenvolvimento de Sistemas na ULBRA Torres, como entusiasta de computadores, busco constantemente expandir meus conhecimentos e habilidades no universo da programação.
 ### Minhas redes sociais!
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://Instagram.com/filipe_magnuss)
