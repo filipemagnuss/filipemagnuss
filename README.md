@@ -34,4 +34,4 @@ Estudante de Análise e Desenvolvimento de Sistemas na ULBRA Torres, como entusi
 
 <br/>
 
-![Filipe Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=filipemagnuss&layout=compact)
+![Filipe Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=filipemagnuss&theme=ambient_gradient&layout=compact)
