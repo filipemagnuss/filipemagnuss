@@ -4,8 +4,12 @@ Estudante de Análise e Desenvolvimento de Sistemas na ULBRA Torres, como entusi
 
 ### Minhas redes sociais! 
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://Instagram.com/filipe_magnuss)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filipe-hahn-magnus-9bb9771b0/)
+<a href="https://Instagram.com/filipe_magnuss" target="_blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/filipe-hahn-magnus-9bb9771b0/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 ### Familiarizado com Windows e Linux!
 
