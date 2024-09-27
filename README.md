@@ -7,6 +7,14 @@ Estudante de Análise e Desenvolvimento de Sistemas na ULBRA Torres, como entusi
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://Instagram.com/filipe_magnuss)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filipe-hahn-magnus-9bb9771b0/)
 
+### Familiarizado com Windows e Linux!
+
+<div style="text-align: center;">
+ <img align="center" alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img align="center" alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+
+</div>
+
 ### Algumas linguagens que já tive contato e estou aprendendo...
 
 <div style="text-align: center;">
