@@ -48,10 +48,6 @@
   </div>
 </p>
 
-<p align="center">
-  ![Filipe Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=filipemagnuss&theme=github_dark_dimmed&layout=compact)
-</p>
+![Filipe Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=filipemagnuss&theme=github_dark_dimmed&layout=compact)
 
-<p align="center">
-  ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
-</p>
+![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
