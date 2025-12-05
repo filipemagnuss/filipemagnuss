@@ -21,7 +21,3 @@ Estudante de Análise e Desenvolvimento de Sistemas na ULBRA Torres, como entusi
 **Banco de Dados:**  
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 
----
-
-![Filipe Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=filipemagnuss&theme=github_dark_dimmed&layout=compact)  
-![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
